@@ -1,7 +1,10 @@
-# FamilyTree demo
+# FamilyTree SVG demo
+
+An example of a relatives tree rendered with React into a SVG node:
+
+![](./demo.png)
 
 ## Modules
 
-* [pinch-zoom-pan](https://www.npmjs.com/package/pinch-zoom-pan)
-* [react-family-tree](https://www.npmjs.com/package/react-family-tree)
 * [relatives-tree](https://www.npmjs.com/package/relatives-tree)
+* [pinch-zoom-pan](https://www.npmjs.com/package/pinch-zoom-pan)
