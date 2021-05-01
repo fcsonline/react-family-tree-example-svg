@@ -50,10 +50,6 @@
   cursor: pointer;
 }
 
-.description {
-  color: #aaa;
-}
-
 .loading {
   text-align: center;
   padding: 20px;
